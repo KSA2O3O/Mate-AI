@@ -1,2 +1,2 @@
-# Mate-AI
+# Mete AI
 WhatsApp
